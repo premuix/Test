@@ -1,12 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Tailwindcss](https://tailwindcss.com/) handle the CSS with [Create React App](https://github.com/facebook/create-react-app).
 
-# Getting Started with Create React App
+# Deploy with Vercel Platform --- React App
 
-The easiest way to deploy your ReactJS app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js.
+The easiest way to deploy your ReactJS app is to use the [Vercel Platform](https://vercel.com/)
 
-## Demo link : [Vercel Platform](https://vercel.com/)
+## Demo link : [click to preview](https://test-assignment-zeta.vercel.app/)
 
 #
 
