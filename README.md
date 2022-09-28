@@ -10,7 +10,7 @@ The easiest way to deploy your ReactJS app is to use the [Vercel Platform](https
 ### `Demo link SignUp` : [click to preview](https://test-assignment-zeta.vercel.app/SignUp)
 ### `Demo link Dashboard` : [click to preview](https://test-assignment-zeta.vercel.app/Dashboard)
 
-### Figma UI : [click to preview](https://www.figma.com/file/Qhk3Lqu879KLz1AAkcCyLJ/onboarding-assignment?node-id=110%3A137)
+### Figma UI : [https://www.figma.com/file/Qhk3Lqu879KLz1AAkcCyLJ/onboarding-assignment?node-id=0%3A1](https://www.figma.com/file/Qhk3Lqu879KLz1AAkcCyLJ/onboarding-assignment?node-id=0%3A1)
 
 #
  
