@@ -2,11 +2,13 @@
 
 [Tailwindcss](https://tailwindcss.com/) handle the CSS with [Create React App](https://github.com/facebook/create-react-app).
 
-# Deploy with Vercel Platform --- React App
+## Deploy with Vercel Platform --- React App
 
 The easiest way to deploy your ReactJS app is to use the [Vercel Platform](https://vercel.com/)
 
-## Demo link : [click to preview](https://test-assignment-zeta.vercel.app/)
+### `Demo link app` : [click to preview](https://test-assignment-zeta.vercel.app/)
+### `Demo link SignUp` : [click to preview](https://test-assignment-zeta.vercel.app/SignUp)
+### `Demo link Dashboard` : [click to preview](https://test-assignment-zeta.vercel.app/Dashboard)
 
 #
 

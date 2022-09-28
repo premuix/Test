@@ -18,7 +18,7 @@ const SignUp = () => {
       >
 
         <div className="overflow-hidden w-full flex leading-normal h-screen">
-          <div className="lg:w-8/12 flex items-center justify-center signUp-bg text-center text-xl font-bold text-white flex-wrap  " >
+          <div className="mobile-hideen lg:w-8/12 flex items-center justify-center signUp-bg text-center text-xl font-bold text-white flex-wrap  " >
 
             <div className="flex-row gap-2 justify-center justify-items-center " >
               <div className="p-4 text-center ">
@@ -46,7 +46,7 @@ const SignUp = () => {
           </div>
 
 
-          <div className="text-center lg:w-4/12 flex items-center justify-center p-4">
+          <div className="text-center w-full lg:w-4/12 flex items-center justify-center p-4">
             <div className="flex min-h-full  w-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
               <div className="w-full max-w-md space-y-8">
                 <div className="logo">
